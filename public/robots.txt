@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://memorablejourney.netlify.app/sitemap.xml
