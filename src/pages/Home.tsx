@@ -82,7 +82,7 @@ export default function Home() {
   return (
     <div className="overflow-hidden bg-slate-50">
       <SEO 
-        title="Home | MemorableJourney-TourandTravel" 
+        title="Memorable Journey | Tour and Travel Packages" 
         description="Discover breathtaking destinations, personalized travel experiences, and unforgettable adventures tailored exactly to your dreams."
       />
       {/* Ultra Modern Hero Section */}
