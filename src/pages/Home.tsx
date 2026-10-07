@@ -106,13 +106,14 @@ export default function Home() {
                 <span className="text-sm font-medium text-indigo-900 tracking-wide">Discover the world with us</span>
               </div>
               
+             
               <h1 className="text-5xl md:text-7xl font-serif font-bold text-slate-900 leading-[1.1] mb-6">
-                Crafting <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-rose-500">Journeys</span><br />
-                That Echo Through Time
+               Memorable <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-rose-500">Journeys</span><br />
+               That Echo Through Time
               </h1>
               
               <p className="text-lg md:text-xl text-slate-600 mb-10 leading-relaxed max-w-lg">
-                Embark on meticulously curated expeditions, immerse yourself in vibrant cultures, and discover awe-inspiring landscapes tailored to your unique wanderlust.
+               Discover unforgettable travel experiences with Memorable Journey. Explore curated tour and travel packages, breathtaking destinations, and personalized adventures designed for every traveler.
               </p>
               
               <div className="flex flex-wrap items-center gap-5">
